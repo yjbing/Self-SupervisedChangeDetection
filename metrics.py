@@ -1,5 +1,3 @@
-# author: jonathan prexl
-
 import numpy as np
 from sklearn.metrics import confusion_matrix
 
